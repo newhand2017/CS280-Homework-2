@@ -22,13 +22,46 @@ namespace CS280_Homework_2
             pokemon.Name = Console.ReadLine();
 
             Console.Write("請輸入編號(Number) : ");
-            pokemon.Number = int.Parse(Console.ReadLine());
+            //pokemon.Number = int.Parse(Console.ReadLine());
+            try
+            {
+                pokemon.Number = int.Parse(Console.ReadLine());
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("輸入格式錯誤，請輸入Int 格式。");
+                Console.WriteLine("錯誤訊息 : \n" + e.ToString());
+
+                return;
+            }
 
             Console.Write("請輸入高度(Height) : ");
-            pokemon.Height = float.Parse(Console.ReadLine());
+            //pokemon.Height = float.Parse(Console.ReadLine());
+            try
+            {
+                pokemon.Height = float.Parse(Console.ReadLine());
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("輸入格式錯誤，請輸入Float 格式。");
+                Console.WriteLine("錯誤訊息 : \n" + e.ToString());
+
+                return;
+            }
 
             Console.Write("請輸入重量(Weight) : ");
-            pokemon.Weight = float.Parse(Console.ReadLine());
+            //pokemon.Weight = float.Parse(Console.ReadLine());
+            try
+            {
+                pokemon.Weight = float.Parse(Console.ReadLine());
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("輸入格式錯誤，請輸入Float 格式。");
+                Console.WriteLine("錯誤訊息 : \n" + e.ToString());
+
+                return;
+            }
 
             Console.Write("請輸入種類(Category) : ");
             pokemon.Category = Console.ReadLine();
