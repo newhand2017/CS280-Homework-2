@@ -4,3 +4,10 @@ E:\Work_Space\CSharp\CS280\CS280-Homework-2\CS280-Homework-2\bin\Debug\CS280-Hom
 E:\Work_Space\CSharp\CS280\CS280-Homework-2\CS280-Homework-2\obj\Debug\CS280-Homework-2.csprojResolveAssemblyReference.cache
 E:\Work_Space\CSharp\CS280\CS280-Homework-2\CS280-Homework-2\obj\Debug\CS280-Homework-2.exe
 E:\Work_Space\CSharp\CS280\CS280-Homework-2\CS280-Homework-2\obj\Debug\CS280-Homework-2.pdb
+D:\Work\CSharp\CS280\CS280-Homework-2\CS280-Homework-2\bin\Debug\CS280-Homework-2.exe.config
+D:\Work\CSharp\CS280\CS280-Homework-2\CS280-Homework-2\obj\Debug\CS280-Homework-2.exe
+D:\Work\CSharp\CS280\CS280-Homework-2\CS280-Homework-2\obj\Debug\CS280-Homework-2.pdb
+D:\Work\CSharp\CS280\CS280-Homework-2\CS280-Homework-2\bin\Debug\CS280-Homework-2.exe
+D:\Work\CSharp\CS280\CS280-Homework-2\CS280-Homework-2\bin\Debug\CS280-Homework-2.pdb
+D:\Work\CSharp\CS280\CS280-Homework-2\CS280-Homework-2\bin\Debug\CS280-Homework-1.2.dll
+D:\Work\CSharp\CS280\CS280-Homework-2\CS280-Homework-2\obj\Debug\CS280-Homework-2.csprojResolveAssemblyReference.cache
